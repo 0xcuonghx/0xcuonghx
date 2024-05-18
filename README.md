@@ -18,14 +18,11 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> |
 
 - Ethers.js
-## Platforms
-| Docker |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> |
-## Cloud
-| GCP |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/> |
+## Infrastructure
+| GCP | Docker |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> |
+
 ## Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=0xcuonghx&show_icons=true&theme=gotham&count_private=true)
 
