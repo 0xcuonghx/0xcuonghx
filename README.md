@@ -28,9 +28,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcuonghx&layout=compact&langs_count=6&theme=gotham)
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xcuonghx}/count.svg" /></p> 
-<br>
-</div>
