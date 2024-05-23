@@ -8,20 +8,21 @@
 | ReactJS | NestJS | NodeJS | Hardhat |
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" width="55" height="55"/> |
-## Package Management
-| NPM |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="55" height="55"/> |
-## Libraries, Tools
-| Git |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> |
-
+## Libraries
 - Ethers.js
 ## Infrastructure
 | GCP | Docker |
 |----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> |
+## Package Management
+| NPM |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="55" height="55"/> |
+## Tools
+| Git |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> |
+
 
 ## Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=0xcuonghx&show_icons=true&theme=gotham&count_private=true)
