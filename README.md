@@ -5,9 +5,9 @@
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="55" height="55"/> |
 ## Framework
-| ReactJS | NodeJS | Hardhat |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" width="55" height="55"/> |
+| ReactJS | NestJS | NodeJS | Hardhat |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" width="55" height="55"/> |
 ## Package Management
 | NPM |
 |----------|
