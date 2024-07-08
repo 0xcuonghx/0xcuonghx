@@ -4,6 +4,9 @@
 | Javascript | Typescript | Solidity |
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="55" height="55"/> |
+## Chains
+- Ethereum
+- TON
 ## Framework
 | ReactJS | NestJS | NodeJS | Hardhat |
 |----------|----------|----------|----------|
