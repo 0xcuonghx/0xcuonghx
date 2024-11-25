@@ -13,6 +13,7 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" width="55" height="55"/> |
 ## Libraries
 - Ethers.js
+- Viem
 ## Infrastructure
 | GCP | Docker |
 |----------|----------|
