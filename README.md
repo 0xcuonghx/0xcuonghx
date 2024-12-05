@@ -7,6 +7,7 @@
 ## Chains
 - EVM-compatible chains (Ethereum, BSC)
 - TON
+- Solana
 ## Framework
 | ReactJS | NestJS | NodeJS | Hardhat |
 |----------|----------|----------|----------|
