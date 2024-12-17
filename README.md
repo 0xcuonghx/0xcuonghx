@@ -5,7 +5,7 @@
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="55" height="55"/> |
 ## Chains
-- EVM-compatible chains (Ethereum, BSC)
+- EVM-compatible chains (Ethereum, BSC, Polygon)
 - TON
 - Solana
 ## Framework
